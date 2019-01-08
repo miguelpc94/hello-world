@@ -1,5 +1,10 @@
 # About me
 
-I'm an automation engineer and researcher on evolvable hardware but what I really do for a living is learning. Many professionals I worked with consider me a fast and deep learner.
-Since I was very young I enjoyed investigating how many devices worked. Curiosity drove me to learn at first Assembly and C++ programming languages.
-Many years later I became an electronics technician and eventually an automation engineer. I avoid limiting my skills to my work and academic titles, expanding my knowledge beyond what is expected from me, towards a lifelong objective of understanding, coordinating and infusing intelligence into processes and matter.
+An engineer with a great drive for infusing intelligence into matter and automating processes. Fascinated by complex structures or patterns in data and software/hardware designs. Researcher on Evolutionary Computation. Actively looking for full time opportunities in London.
+
+Languages: Python, JavaScript, CSS, HTML, Java, C++.
+Tools: MS Office, MATLAB, LaTeX, Git, Jupyter Notebook.
+
+Skilled in software development, data science methodology, machine learning, embedded system programming, process automation and control, digital and power electronics design, Arduino prototyping, problem solving, teamwork.
+
+Experienced in hardware development for drones and underwater remote controlled vehicles used for inspection by the oil industry. Special effects solution provider at Globo, the biggest Brazilian free-to-air television network.
